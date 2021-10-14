@@ -1,3 +1,3 @@
 #ya se que es testrepo 
 
-print("testrepo es una forma de vivir adentro de rama hijo")
+print("awanta me dijeron que testrepo no es un estilo de vida, sera una forma de ser?")
